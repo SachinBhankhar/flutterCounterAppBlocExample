@@ -1,6 +1,6 @@
 # blocApp
 
-A new Flutter project.
+This is a basic(Counter App) example of bloc implementation in flutter using bloc library.
 
 ## Getting Started
 
